@@ -4,3 +4,5 @@ after each audio playing finish console will ask your feedback
 after all audio files check script will create json file with track's name and your feeadback
 
 All you need is run sound check.py
+
+Script is tested on Windows 11 and Windows 10. Windows Media Player are opening all the files without any problem.
